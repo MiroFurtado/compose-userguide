@@ -5,7 +5,7 @@ title = "Compose"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Compose your Docs with __Ease__.
+# named tensor operations, without the *uncertainty*.
 
 Compose is a lean theme for the _Hugo_, inspired by [forestry.io](https://forestry.io). 
 
