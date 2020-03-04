@@ -1,4 +1,4 @@
-name = "firesafety"
+name = "firesafety-site"
 license = "MIT"
 licenselink = "https://github.com/onweru/compose/blob/master/LICENSE"
 description = "A hugo theme for documentation sites. It's inspired by forestry.io's docs page"
