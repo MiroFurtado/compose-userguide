@@ -1,7 +1,7 @@
 baseURL = "https://firesafety-py.netlify.com/"
 title = "Compose Docs"
 enableRobotsTXT = true
-theme = "firesafety"
+theme = "firesafety-site"
 enableGitInfo = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
