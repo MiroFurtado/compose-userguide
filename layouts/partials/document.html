@@ -1,0 +1,16 @@
+<div class="grid-auto">
+  <div>
+    {{- partial "sidebar.html" . }}
+  </div>
+  <div class="content">
+    {{- .Content }}
+    <div class="pager">
+      {{- with .Next }}
+      <a href="{{ .Permalink }}" id="prev">{{ .Title }}</a>
+      {{ end }}
+      {{- with .Prev }}
+      <a href="{{ .Permalink }}" id="next">{{ .Title }}</a>
+      {{- end }}
+    </div>
+  </div>
+</div>
